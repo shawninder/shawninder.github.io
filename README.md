@@ -1,2 +1,4 @@
 # shawninder.github.io
-Shawn Inder's website
+Shawn Inder's personal and professional website
+
+COMING SOON
