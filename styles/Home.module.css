@@ -1,0 +1,17 @@
+.main {
+  padding: 6rem;
+}
+
+.main h1 {
+  margin-bottom: 3rem;
+}
+
+.main p {
+  margin: 1rem 0;
+  padding: 1rem 0;
+  background-color: rgba(var(--callout-rgb), 0.5);
+}
+
+@media (prefers-color-scheme: dark) {
+
+}
